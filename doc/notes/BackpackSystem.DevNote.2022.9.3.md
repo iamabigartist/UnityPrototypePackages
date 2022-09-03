@@ -1,9 +1,9 @@
 ---
-id: t7z3svwnvygi7et2au4n3gc
+id: p0e247h5lw5ndojpu0g3kr0
 title: '3'
 desc: ''
-updated: 1662196343497
-created: 1662195647942
+updated: 1662209754686
+created: 1662209746642
 ---
 
 背包最主要的交互，也是能够抽象出来，通用的交互，是对于item的一系列UI和数据操作。
